@@ -72,13 +72,6 @@ The dataset includes:
 
 ---
 
-## 📽️ Demonstration
-🔗 [Video Demo on LinkedIn](#)  
-📌 Don’t forget to tag **@Cognifyz-Technologies** and use hashtags:  
-`#cognifyz #cognifyzTech #cognifyzTechnologies #dataanalysis #python`
-
----
-
 ## 📜 Certificate & Stipend Eligibility
 ✅ Completed all Level 1 & 2 tasks  
 ✅ Completed 2 Level 3 tasks  
@@ -89,7 +82,9 @@ The dataset includes:
 ## 📬 Contact
 **Dilip Vankayala**  
 📧 Email: dilipv2003@gmail.com 
+
 🌐 LinkedIn: (https://www.linkedin.com/in/dilip-vankayala-820a312b2/)
+
 🐙 GitHub: https://github.com/DilipVankayala
 
 ---
